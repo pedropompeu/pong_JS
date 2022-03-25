@@ -1,3 +1,5 @@
 # pong_JS
-Feito no curso da Alura
-<img src=".github/cover.png /">
+
+<h1 align="center">
+    <img alt="Jogo PingPong" src="./.github/cover.png" />
+</h1>
